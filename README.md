@@ -27,7 +27,7 @@ I turn ideas into working web applications, from the user interface to the datab
 
 ## 🏅 Certifications & Workshops
 
-- **Software Development Bootcamp with AI skills**,GOOMYCODE 
+- **Software Development Bootcamp with AI skills**, GOMYCODE 
 - **Certified Cybersecurity Educator Professional (CCEP)**, Red Team Leaders 
 
 ## 🎯 Looking for

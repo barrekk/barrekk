@@ -27,7 +27,8 @@ I turn ideas into working web applications, from the user interface to the datab
 
 ## 🏅 Certifications & Workshops
 
-- **Certified Cybersecurity Educator Professional (CCEP)**, Red Team Leaders (April 2026)
+- **Software Development Bootcamp with AI skills**,GOOMYCODE 
+- **Certified Cybersecurity Educator Professional (CCEP)**, Red Team Leaders 
 
 ## 🎯 Looking for
 
